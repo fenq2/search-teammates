@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtKey": 'YHoCuTeJIu team top fastcup',
+    "mongoUri": "mongodb+srv://fenq:90Llor1Ss@cluster0.bvtvk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
